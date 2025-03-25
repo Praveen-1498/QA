@@ -23,7 +23,9 @@
 
 ###
 
-<h2 align="left">5+ years of experience in Manual and Functionality Testing in Consoles and Mobile Games.<br><br>Being an Introvert, gaming has helped me survive my childhood. My time at the company has allowed me to do a variety of things. I have a good experience in interacting with game users through the social platform and helping them with their queries.<br><br>* My specialties:<br>• Excellent communication skills.<br>• Creating test cases and keeping them updated<br>• Different types of testing - Functionality, Regression, Smoke, Compatibility. <br>• Maintaining client communication and Internal team.<br>• Experience in Leading a QA Team of 10-15 resources for 1 year and Managing testers and tasks.<br>• Test Management Tools: JIRA, Bonsai, Bugzilla, Mantis<br>• Very effective in defect detection, a self-motivated & team player</h2>
+<h2 align="left"> With 5+ years of experience in Manual and Functionality Testing in Consoles and Mobile Games   I am a qualified game tester professional known for efficiency and rapid learning. Experienced in mobile, web, and console testing. I excel in the Software Testing Life Cycle (STLC) and Defect Life Cycle, showcasing proficiency in test execution, test data creation, and JIRA-based defect reporting. I collaborate effectively with development and testing teams, specializing in exploratory and compatibility testing.
+My responsibilities involve crafting thorough test scenarios, meticulous test data preparation, and precise defect reporting to clients. I excel at documentation, generating reports like Daily Status Reports (DSR) and Test Case Execution Reports. As a key player in training and mentoring new team members, I contribute to team growth and knowledge transfer.
+Adaptable and quick to integrate into new environments, I bring a proactive approach to learning new technologies.</h2>
 
 ###
 
