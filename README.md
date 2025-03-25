@@ -23,8 +23,6 @@
 
 ###
 
-- 📄 Know about my experiences [https://pdf.ac/3cd525](https://pdf.ac/3cd525)
-
 <h2 align="left">5+ years of experience in Manual and Functionality Testing in Consoles and Mobile Games.<br><br>Being an Introvert, gaming has helped me survive my childhood. My time at the company has allowed me to do a variety of things. I have a good experience in interacting with game users through the social platform and helping them with their queries.<br><br>* My specialties:<br>• Excellent communication skills.<br>• Creating test cases and keeping them updated<br>• Different types of testing - Functionality, Regression, Smoke, Compatibility. <br>• Maintaining client communication and Internal team.<br>• Experience in Leading a QA Team of 10-15 resources for 1 year and Managing testers and tasks.<br>• Test Management Tools: JIRA, Bonsai, Bugzilla, Mantis<br>• Very effective in defect detection, a self-motivated & team player</h2>
 
 ###
